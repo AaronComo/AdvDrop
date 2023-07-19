@@ -1,0 +1,4 @@
+Success
+original label:	king_penguin
+target label:	pillow
+attack label:	pillow

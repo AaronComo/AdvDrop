@@ -1,0 +1,4 @@
+Success
+original label:	barrel
+target label:	kit_fox
+attack label:	kit_fox

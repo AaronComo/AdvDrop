@@ -1,0 +1,4 @@
+Success
+original label:	Samoyed
+target label:	eel
+attack label:	eel

@@ -1,0 +1,4 @@
+Success
+original label:	peacock
+target label:	cabbage_butterfly
+attack label:	cabbage_butterfly

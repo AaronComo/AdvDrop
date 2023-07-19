@@ -1,0 +1,4 @@
+Success
+original label:	Doberman
+target label:	Greater_Swiss_Mountain_dog
+attack label:	Greater_Swiss_Mountain_dog

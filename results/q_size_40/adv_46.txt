@@ -1,0 +1,4 @@
+Success
+original label:	castle
+target label:	vending_machine
+attack label:	vending_machine

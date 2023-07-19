@@ -1,0 +1,4 @@
+Success
+original label:	impala
+target label:	vault
+attack label:	vault

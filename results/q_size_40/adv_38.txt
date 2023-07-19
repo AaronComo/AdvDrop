@@ -1,0 +1,4 @@
+Success
+original label:	anemone_fish
+target label:	file
+attack label:	file

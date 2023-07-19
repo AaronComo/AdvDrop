@@ -1,0 +1,4 @@
+Success
+original label:	brambling
+target label:	monarch
+attack label:	monarch

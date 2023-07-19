@@ -1,0 +1,4 @@
+Success
+original label:	beacon
+target label:	flagpole
+attack label:	flagpole

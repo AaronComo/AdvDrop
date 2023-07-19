@@ -1,0 +1,4 @@
+Success
+original label:	bullfrog
+target label:	brambling
+attack label:	brambling

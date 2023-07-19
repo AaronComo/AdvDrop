@@ -1,0 +1,4 @@
+Success
+original label:	boa_constrictor
+target label:	Irish_water_spaniel
+attack label:	Irish_water_spaniel

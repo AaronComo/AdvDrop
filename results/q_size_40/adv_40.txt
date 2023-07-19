@@ -1,0 +1,4 @@
+Success
+original label:	bakery
+target label:	sock
+attack label:	sock

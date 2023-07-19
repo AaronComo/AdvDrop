@@ -1,0 +1,4 @@
+Success
+original label:	Shih-Tzu
+target label:	croquet_ball
+attack label:	croquet_ball

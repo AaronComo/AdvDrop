@@ -1,0 +1,4 @@
+Success
+original label:	grey_fox
+target label:	Staffordshire_bullterrier
+attack label:	Staffordshire_bullterrier

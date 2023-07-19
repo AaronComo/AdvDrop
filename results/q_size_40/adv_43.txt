@@ -1,0 +1,4 @@
+Success
+original label:	binoculars
+target label:	Shetland_sheepdog
+attack label:	Shetland_sheepdog

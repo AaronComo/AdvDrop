@@ -1,0 +1,4 @@
+Success
+original label:	otterhound
+target label:	soup_bowl
+attack label:	soup_bowl

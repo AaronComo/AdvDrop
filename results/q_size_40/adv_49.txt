@@ -1,0 +1,4 @@
+Success
+original label:	crane
+target label:	abacus
+attack label:	abacus

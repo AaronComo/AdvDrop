@@ -1,0 +1,4 @@
+Success
+original label:	lion
+target label:	notebook
+attack label:	notebook

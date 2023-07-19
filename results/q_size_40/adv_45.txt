@@ -1,0 +1,4 @@
+Success
+original label:	cannon
+target label:	tape_player
+attack label:	tape_player

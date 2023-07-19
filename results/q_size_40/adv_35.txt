@@ -1,0 +1,4 @@
+Success
+original label:	armadillo
+target label:	chain_saw
+attack label:	chain_saw

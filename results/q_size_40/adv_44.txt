@@ -1,0 +1,4 @@
+Success
+original label:	brass
+target label:	Gordon_setter
+attack label:	Gordon_setter

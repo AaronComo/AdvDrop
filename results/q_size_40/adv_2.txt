@@ -1,0 +1,4 @@
+Success
+original label:	water_ouzel
+target label:	milk_can
+attack label:	milk_can

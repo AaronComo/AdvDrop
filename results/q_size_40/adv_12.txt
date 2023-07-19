@@ -1,0 +1,4 @@
+Success
+original label:	hermit_crab
+target label:	warthog
+attack label:	warthog

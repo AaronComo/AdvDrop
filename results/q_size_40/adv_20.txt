@@ -1,0 +1,4 @@
+Success
+original label:	flat-coated_retriever
+target label:	yurt
+attack label:	yurt

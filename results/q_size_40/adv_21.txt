@@ -1,0 +1,4 @@
+Success
+original label:	Brittany_spaniel
+target label:	whiptail
+attack label:	whiptail

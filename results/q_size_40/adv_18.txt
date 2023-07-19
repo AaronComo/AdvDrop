@@ -1,0 +1,4 @@
+Success
+original label:	Norfolk_terrier
+target label:	backpack
+attack label:	backpack

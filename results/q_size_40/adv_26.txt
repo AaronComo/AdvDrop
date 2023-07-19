@@ -1,0 +1,4 @@
+Success
+original label:	timber_wolf
+target label:	washer
+attack label:	washer

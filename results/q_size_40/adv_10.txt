@@ -1,0 +1,4 @@
+Success
+original label:	wallaby
+target label:	Dandie_Dinmont
+attack label:	Dandie_Dinmont

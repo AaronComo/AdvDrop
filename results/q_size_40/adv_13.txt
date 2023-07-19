@@ -1,0 +1,4 @@
+Success
+original label:	limpkin
+target label:	miniature_pinscher
+attack label:	miniature_pinscher

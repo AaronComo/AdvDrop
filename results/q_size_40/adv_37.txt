@@ -1,0 +1,4 @@
+Success
+original label:	Madagascar_cat
+target label:	sulphur-crested_cockatoo
+attack label:	sulphur-crested_cockatoo

@@ -1,0 +1,4 @@
+Success
+original label:	macaque
+target label:	measuring_cup
+attack label:	measuring_cup

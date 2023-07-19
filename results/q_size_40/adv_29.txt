@@ -1,0 +1,4 @@
+Success
+original label:	ladybug
+target label:	malamute
+attack label:	malamute

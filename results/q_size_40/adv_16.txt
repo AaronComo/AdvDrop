@@ -1,0 +1,4 @@
+Success
+original label:	black-and-tan_coonhound
+target label:	sorrel
+attack label:	sorrel

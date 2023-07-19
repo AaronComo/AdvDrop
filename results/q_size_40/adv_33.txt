@@ -1,0 +1,4 @@
+Success
+original label:	wild_boar
+target label:	tow_truck
+attack label:	tow_truck

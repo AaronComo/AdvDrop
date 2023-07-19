@@ -1,0 +1,4 @@
+Success
+original label:	garden_spider
+target label:	racer
+attack label:	racer

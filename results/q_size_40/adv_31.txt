@@ -1,0 +1,4 @@
+Success
+original label:	ringlet
+target label:	ping-pong_ball
+attack label:	ping-pong_ball

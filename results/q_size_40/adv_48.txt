@@ -1,0 +1,4 @@
+Success
+original label:	coil
+target label:	mouse
+attack label:	mouse

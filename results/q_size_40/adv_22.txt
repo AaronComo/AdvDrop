@@ -1,0 +1,4 @@
+Success
+original label:	malinois
+target label:	tailed_frog
+attack label:	tailed_frog
